@@ -530,5 +530,13 @@ Usually only use one (or two) decimal places in dB to avoid excessive precision
 \begin{flushright}[Lecture on 3.2]\end{flushright}
 \section{Nonlinear Systems}
 
+Nonlinearity of your amplifier can introduce harmonics to your signal (reflecting clipping in the time domain).
+
+\textbf{Superposition may not apply}. If two frequencies are sent together through a nonlinear system, the result will not necessarily be the superposition of their individual results.
+
+Extra frequencies get added - 'intermodulation products'. These are difficult to filter out as they may be very close to our desired frequencies.
+
+Nonlinearity of amplifiers can be modelled by describing the amps behaviour using a polynomial with voltage input. The amp specs should give coefficients for this polynomial.
+For small $v_{in}$, the higher-order terms become negligible.
 
 \end{document}
