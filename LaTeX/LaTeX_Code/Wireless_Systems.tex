@@ -528,6 +528,10 @@ Therefore in a 100 Hz bandwidth, there is -154 dBm of noise
 Usually only use one (or two) decimal places in dB to avoid excessive precision
 
 \begin{flushright}[Lecture on 3.2]\end{flushright}
+TODO go back through notes on modelling nonlinear systems and type up some notes
+
+\begin{flushright}[Lecture on 3.3]\end{flushright}
+
 \section{Nonlinear Systems}
 
 Nonlinearity of your amplifier can introduce harmonics to your signal (reflecting clipping in the time domain).
@@ -538,5 +542,16 @@ Extra frequencies get added - 'intermodulation products'. These are difficult to
 
 Nonlinearity of amplifiers can be modelled by describing the amps behaviour using a polynomial with voltage input. The amp specs should give coefficients for this polynomial.
 For small $v_{in}$, the higher-order terms become negligible.
+
+You can use trig to expand out $cos^2(\omega t)$ into $0.5+0.5cos(2\omega t)$. Repeating this for other terms gives a set of frequencies at harmonics of the fundamental.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\linewidth]{images/image8.png}
+    %\caption{} % Optional caption
+    %\label{fig:} % Optional label for referencing
+\end{figure}
+
+\subsection{Narrowband Models}
 
 \end{document}
