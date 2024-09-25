@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Motivation and Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.2}The Wireless Spectrum}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Assessment \& Delivery}{3}{}%
+\contentsline {subsection}{\numberline {1.4}Module Outline}{3}{}%
+\contentsline {subsection}{\numberline {1.5}Textbooks}{4}{}%
+\contentsline {subsection}{\numberline {1.6}Basics of Wireless Communication}{4}{}%
+\contentsline {subsubsection}{\numberline {1.6.1}Main components of a transmitter}{5}{}%
+\contentsline {subsubsection}{\numberline {1.6.2}Main components of a receiver}{5}{}%
+\contentsline {section}{\numberline {2}Basic Antennae \& Propagation}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Basic Antennae}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Receiver Antennae}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Basic Propagation}{8}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Free Space Links}{9}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Fresnel Zones}{9}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Non-Free Space Links}{10}{}%
+\contentsline {section}{\numberline {3}Link Budgets}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Computing the RX Signal Power}{11}{}%
+\contentsline {subsection}{\numberline {3.2}Working with Decibels}{11}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Power Spectral Density}{12}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Precision in Decibel Units}{12}{}%
+\contentsline {section}{\numberline {4}Nonlinear Systems}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Narrowband Models}{13}{}%
